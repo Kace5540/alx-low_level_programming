@@ -1,9 +1,9 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/*
- * main -Determines if a number is positive, negative zer
- * i
+/**
+ * main -Determines if a number is positive, negative zero
+ * Description: 'the program's description'
  * Return: Always 0 (Success)
  */
 int main(void)
@@ -19,7 +19,7 @@ int main(void)
 	}
 	else if (n == 0)
 	{
-		printf("%d is zer", n);
+		printf("%d is zero", n);
 	}
 	else
 	{
