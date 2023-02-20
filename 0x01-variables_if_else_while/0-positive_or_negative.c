@@ -1,9 +1,11 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/* *
- * main -this is where the code is positive
- *  */
+/*
+ * main -Determines if a number is positive, negative zer
+ * i
+ * Return: Always 0 (Success)
+ */
 int main(void)
 {
 	int n;
