@@ -9,11 +9,8 @@ int main(void)
 {
 	int num;
 
-	num = 0;
-	while
-		(num < 10) {
-			printf("%d" ,num);
-			num++;
-		}
+	for (a=0; a<=10; a++)
+		putchar(a);
+	putchar('\n');
 	return (0);
 }
