@@ -1,5 +1,6 @@
 #include "main.h"
 /**
+ * Description - this function prints ten times the alphabet
  * print_alphabet_10 - Make
  * Return: void
  */
