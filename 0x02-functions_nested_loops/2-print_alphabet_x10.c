@@ -1,11 +1,14 @@
 #include "main.h"
 /**
- * Description - this function prints ten times the alphabet
- * print_alphabet_10 - Make
+ * print_alphabet_10 - Make alphabet 10 times
+ *
+ * Description: - this function prints
+ *
  * Return: void
  */
 void print_alphabet_x10(void)
 {
+	/* Description - this function prints ten times the alphabet */
 	char c;
 	int i = 0;
 
