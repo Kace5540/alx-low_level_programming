@@ -5,7 +5,7 @@
  * Description: print numbers from 0 to 9
  */
 
-void void print_numbers(void)
+void print_numbers(void)
 {	int x;
 
 	for (x = 0; x <= 9; x++)
