@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * @0-isupper: prints caps
+ * @ 0-isupper: prints caps
  * @x: the number to be checked
  * Return: 1 for upper case and 0 for others
  */
