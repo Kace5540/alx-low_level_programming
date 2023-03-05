@@ -1,7 +1,7 @@
 #include "main.h"
 /**
- * @s: the value
  * _atoi - this function
+ * @s: the value
  * Return: the value
  *
  */
