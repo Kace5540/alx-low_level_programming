@@ -2,11 +2,11 @@
 
 /**
  * _puts - prints a string, followed by a new line
- * @str - the value
+ * @str: the value
  */
 void _puts(char *str)
 {
-	while (*str != '\n')
+	while (*str != '\0')
 	{
 	_putchar(*str++);
 	}
